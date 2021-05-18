@@ -1,2 +1,2 @@
 def cool():
-    print("This is cool stuff")
+    print("This is cool stuff VERY")
